@@ -1,0 +1,41 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "coders cafe",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "InputIntent",
+          "slots": [],
+          "samples": [
+            "Fire the rocket",
+            "Fire my rocket",
+            "Launch the rocket",
+            "Launch my rocket"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "4"
+}
